@@ -57,7 +57,7 @@ Road object categories:
     "bike",
     "bus",
     "car",
-    "motor",
+    "motorcycle",
     "person",
     "rider",
     "traffic light",
